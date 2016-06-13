@@ -1,0 +1,1 @@
+You need to set ANT_OPTS to next higher level in dx.bat file.which is located \build-tools\versions\dx.bat. set defaultXmx=-Xmx2048M I set it to 2GB.
